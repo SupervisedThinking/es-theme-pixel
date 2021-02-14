@@ -52,7 +52,7 @@ license:		creative commons CC-BY-NC-SA
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>871F78</secondaryColor>
 			<forceUppercase>1</forceUppercase>
-			<!--<scrollSound>./art/flipper.wav</scrollSound>-->
+			<scrollSound>./art/scroll.wav</scrollSound>
 		</textlist>
 
 	</view>
@@ -105,7 +105,7 @@ license:		creative commons CC-BY-NC-SA
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>871F78</secondaryColor>
 			<forceUppercase>0</forceUppercase>
-			<!--<scrollSound>./art/flipper.wav</scrollSound>-->
+			<scrollSound>./art/scroll.wav</scrollSound>
 		</textlist>
 		
 		<text name="System_Desc" extra="true">
